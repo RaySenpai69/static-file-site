@@ -1,0 +1,17 @@
+{
+  "name": "satatic-file-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RaySenpai69/satatic-file-site.git",
+  "author": "Ray Senpai <89797110+RaySenpai69@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
